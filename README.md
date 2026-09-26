@@ -39,9 +39,15 @@ Python · Java · C · JavaScript · Rust
 
 ## 🔐 Cybersecurity Portfolio
 
-## 🔐 Projects & Labs
+| Repository | Platform / Technology | Focus |
+|---|---|---|
+| [**AWS Badge Access Simulator**](https://github.com/itsdeasia/AWS-Badge-Access-Simulator-Deasia) | AWS · Rust | Cloud security, badge access analysis, anomaly detection, security challenges |
+| [**Packet Switcher**](https://github.com/itsdeasia/Packet-Switcher) | Java · Networking | Packet transmission, buffering, network delays, packet drops, network simulation |
+| [**CPU Scheduling Algorithms**](https://github.com/itsdeasia/CPU-Scheduling-Algorithms) | Operating Systems | CPU scheduling, process management, algorithm analysis, operating system concepts |
+| [**Inventory Management System**](https://github.com/itsdeasia/Inventory-Management-System) | Java · Data Structures | Linked lists, merge sort, CSV processing, search, insertion, deletion, performance analysis |
+## 🔐 Other Projects & Labs
 
-Hands-on cybersecurity, networking, systems, and software projects demonstrating security analysis, cloud security, networking, and core computer science concepts:
+Hands on cybersecurity, networking, systems, and software projects demonstrating security analysis, cloud security, networking, and core computer science concepts:
 
 | Repository | Platform / Technology | Focus |
 |---|---|---|
