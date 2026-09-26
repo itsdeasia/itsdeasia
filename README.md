@@ -2,7 +2,13 @@
 
 <!--
 **itsdeasia/itsdeasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Deasia 👋🏾
 
+**Cybersecurity | Cloud Security | Security Operations**
+
+Computer Science graduate with a cybersecurity focus and CompTIA Security+ certification. 
+I’m building hands on experience in security operations, cloud security, 
+vulnerability management, network security, and incident analysis.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
