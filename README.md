@@ -1,10 +1,8 @@
-## Hi there 👋
-
-<!--
-**itsdeasia/itsdeasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Deasia 👋🏾
 
-# Hi, I'm Deasia 👋🏾
+**Cybersecurity | Cloud Security | Security Operations**
+
+Computer Science graduate with a cybersecurity focus and CompTIA Security+ certification. I’m building hands on experience in security operations, cloud security, vulnerability management, network security, and incident analysis.
 
 ---
 
@@ -14,7 +12,7 @@
 - 🔐 CompTIA Security+ (SY0-701) Certified
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02) — In Progress
 - 🏆 National Cyber League Competitor
-- 🛡️ Interested in Cybersecurity Analyst, SOC Analyst, Cloud Security, and Vulnerability Management roles
+- 🛡️ Interested in Cybersecurity Analyst, IT, SOC Analyst, Cloud Security, and Vulnerability Management roles
 - 📍 Baltimore, Maryland
 
 ---
@@ -35,7 +33,7 @@ Network Analysis · Vulnerability Assessment · Digital Forensics · OSINT · We
 AWS · Linux · Git · GitHub · Jira
 
 **Programming:**  
-Python · Java · C · JavaScript
+Python · Java · C · JavaScript · Rust
 
 ---
 
@@ -60,12 +58,3 @@ Python · Java · C · JavaScript
 ## 🤝 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/deasiacraig)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
