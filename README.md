@@ -12,8 +12,8 @@ Computer Science graduate with a cybersecurity focus and CompTIA Security+ certi
 - 🔐 CompTIA Security+ (SY0-701) Certified
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02) — In Progress
 - 🛡️ **GRC Applied Fundamentals (GRC-AF) Training — In Progress** | BCR Cyber / EARN Maryland
-      📚 **40-Hour GRC Training:** Self-paced coursework covering governance, risk management, compliance, and cybersecurity fundamentals
-      🖥️ **8-Hour Cyber Range Training:** Instructor-led instruction and hands-on practical exercises using the BCR Cyber Series 3000 Cyber Range
+     -  📚 **40-Hour GRC Training:** Self-paced coursework covering governance, risk management, compliance, and cybersecurity fundamentals
+     -  🖥️ **8-Hour Cyber Range Training:** Instructor-led instruction and hands-on practical exercises using the BCR Cyber Series 3000 Cyber Range
 - 🏆 National Cyber League Competitor
 - 💻 Hands-on experience building Linux administration, virtualization, networking, and cloud security labs
 - 🎯 Career Interests: IT Support, Cybersecurity Analyst, SOC Analyst, GRC Analyst, Cloud Security, and Vulnerability Management
