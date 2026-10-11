@@ -50,6 +50,8 @@ Hands on cybersecurity, networking, systems, and software projects demonstrating
 
 | Repository | Platform / Technology | Focus |
 |---|---|---|
+
+| [**Ubuntu Linux IT Home Lab**](https://github.com/itsdeasia/ubuntu-IT-Lab) | Ubuntu Linux · UTM · macOS | Linux system administration, virtualization, terminal commands, system monitoring, troubleshooting |
 | [**CPU Scheduling Algorithms**](https://github.com/itsdeasia/CPU-Scheduling-Algorithms) | Operating Systems | CPU scheduling, process management, algorithm analysis, operating system concepts |
 | [**Inventory Management System**](https://github.com/itsdeasia/Inventory-Management-System) | Java · Data Structures | Linked lists, merge sort, CSV processing, search, insertion, deletion, performance analysis |
 
