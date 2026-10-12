@@ -43,18 +43,18 @@ Python · Java · C · JavaScript · Rust
 
 ## 🔐 Cybersecurity Portfolio
 
-| Repository | Platform / Technology | Focus |
-|---|---|---|
-| [**AWS Badge Access Simulator**](https://github.com/itsdeasia/AWS-Badge-Access-Simulator-Deasia) | AWS · Rust | Cloud security, badge access analysis, anomaly detection, security challenges |
+| Repository | Platform / Technology | Focus | Date |
+|---|---|---|---|
+| [**AWS Badge Access Simulator**](https://github.com/itsdeasia/AWS-Badge-Access-Simulator-Deasia) | AWS · Rust | Cloud security, badge access analysis, anomaly detection, security challenges | Spring 2025 
 | [**Packet Switcher**](https://github.com/itsdeasia/Packet-Switcher) | Java · Networking | Packet transmission, buffering, network delays, packet drops, network simulation |
 
 ## 🔐 Other Projects & Labs
 
 Hands on cybersecurity, networking, systems, and software projects demonstrating security analysis, cloud security, networking, and core computer science concepts:
 
-| Repository | Platform / Technology | Focus |
-|---|---|---|
-| [**Ubuntu Linux IT Home Lab**](https://github.com/itsdeasia/ubuntu-IT-Lab) | Ubuntu Linux · UTM · macOS | Linux system administration, virtualization, terminal commands, system monitoring, troubleshooting |
+| Repository | Platform / Technology | Focus | Date
+|---|---|---|---|
+| [**Ubuntu Linux IT Home Lab**](https://github.com/itsdeasia/ubuntu-IT-Lab) | Ubuntu Linux · UTM · macOS | Linux system administration, virtualization, terminal commands, system monitoring, troubleshooting | October 2026
 | [**CPU Scheduling Algorithms**](https://github.com/itsdeasia/CPU-Scheduling-Algorithms) | Operating Systems | CPU scheduling, process management, algorithm analysis, operating system concepts |
 | [**Inventory Management System**](https://github.com/itsdeasia/Inventory-Management-System) | Java · Data Structures | Linked lists, merge sort, CSV processing, search, insertion, deletion, performance analysis |
 
