@@ -45,8 +45,8 @@ Python · Java · C · JavaScript · Rust
 
 | Repository | Platform / Technology | Focus | Date |
 |---|---|---|---|
-| [**AWS Badge Access Simulator**](https://github.com/itsdeasia/AWS-Badge-Access-Simulator-Deasia) | AWS · Rust | Cloud security, badge access analysis, anomaly detection, security challenges | Spring 2025 
-| [**Packet Switcher**](https://github.com/itsdeasia/Packet-Switcher) | Java · Networking | Packet transmission, buffering, network delays, packet drops, network simulation |
+| [**AWS Badge Access Simulator**](https://github.com/itsdeasia/AWS-Badge-Access-Simulator-Deasia) | AWS · Rust | Cloud security, badge access analysis, anomaly detection, security challenges | Fall 2025 
+| [**Packet Switcher**](https://github.com/itsdeasia/Packet-Switcher) | Java · Networking | Packet transmission, buffering, network delays, packet drops, network simulation | Spring 2026
 
 ## 🔐 Other Projects & Labs
 
